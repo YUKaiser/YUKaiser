@@ -126,7 +126,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 💻 Coding Profiles
+### 🌐 Coding & Data Science Platforms
 
 <p align="center">
   <a href="https://leetcode.com/yashkaiser/" target="_blank">
@@ -135,11 +135,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.hackerrank.com/yashkaiser" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
+  <a href="https://www.hackerrank.com/profile/tmstone68" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-tmstone68-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
+  </a>
+  <a href="https://www.kaggle.com/stonetm" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-stonetm-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/yash" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-yash-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
   </a>
 </p>
 
@@ -154,8 +157,8 @@
   <a href="mailto:yashtobe246@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://kaggle.com/stone tm" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <a href="https://www.kaggle.com/stonetm" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-stonetm-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
   <a href="https://github.com/YUKaiser">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
