@@ -141,7 +141,7 @@
   <a href="https://www.kaggle.com/stonetm" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-stonetm-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/yash" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/tmstohzmo?tab=activity" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-yash-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
   </a>
 </p>
